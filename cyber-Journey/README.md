@@ -35,7 +35,7 @@ Automatically detects the default gateway IP by:
 #06.08.25
 
 Today i upgraded my port scanner via threading
-this is the new result!(`portScannerNew.py)
+this is the new result!(`portScannerNew.py`)
 
 
 
