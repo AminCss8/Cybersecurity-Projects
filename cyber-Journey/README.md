@@ -1,4 +1,4 @@
-# Cybersecurity Learning Journey
+# Cybersecurity Learning Journey  05.08.2025
 
 Hi, I'm Amin, a 17-year-old aspiring security engineer. This repository documents my hands-on approach to learning cybersecurity through practical Python projects.
 
@@ -30,11 +30,12 @@ Automatically detects the default gateway IP by:
 - Basic security concepts
 - Git and GitHub workflow
 
-*Current Focus**
-- Developing a network mapper
-- Studying penetration testing methodologies
-- Preparing for HackTheBox challenges
 
+
+#06.08.25
+
+Today i upgraded my port scanner via threading
+this is the new result!(`portScannerNew.py)
 
 
 
