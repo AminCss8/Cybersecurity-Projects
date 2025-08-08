@@ -32,11 +32,14 @@ Automatically detects the default gateway IP by:
 
 
 
-#06.08.25
+#06.08.2025
 
 Today i upgraded my port scanner via threading
 this is the new result!(`portScannerNew.py`)
 
+#07.08.2025
 
+Today i didn't have much time and wanted to work on more projects but for today i build an UDP Scanner 
+- A UDP scanner checks if a specific UDP port on a device is reachable by sending a message to that port and waiting for a        response.
 
 /Users/aminajaballah/Documents/cyber-Journey/README.md
